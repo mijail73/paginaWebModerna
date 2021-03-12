@@ -356,7 +356,8 @@ footer {
         font-size: 30px;
     }
     .agregar-imagen {
-        width: 95%;
+        width: 80%;
+        height: 80%;
     }
     .contenedor-galeria {
         grid-template-columns: auto;
